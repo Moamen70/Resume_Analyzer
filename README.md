@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/demo.gif" width="650">
+  <img src="assets/app.PNG" width="650">
 </p>
 📄 Resume Analyzer – AI-Powered Resume Matching System
 
