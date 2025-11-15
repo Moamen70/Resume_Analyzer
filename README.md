@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/demo.gif" width="650">
+</p>
 📄 Resume Analyzer – AI-Powered Resume Matching System
 
 A smart Resume Analyzer built with JavaFX (UI), Java (processing & scoring), and a Python Embeddings API powered by Sentence Transformers.
